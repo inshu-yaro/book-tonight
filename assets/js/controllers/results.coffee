@@ -1,4 +1,4 @@
-resultsCtrl = ($scope, $window, geolocation) ->
+resultsCtrl = ($scope, $window, $stateParams, geolocation, HotelContainer) ->
   initialize = ->
     geolocation.getLocation().then (location) ->
       callback(location.coords)
@@ -18,5 +18,5 @@ resultsCtrl = ($scope, $window, geolocation) ->
 
 
 angular.module('BookTonight').controller 'ResultsCtrl', [
-  '$scope', '$window', 'geolocation', resultsCtrl
+  '$scope', '$window', '$stateParams', 'geolocation', 'HotelContainer', resultsCtrl
 ]

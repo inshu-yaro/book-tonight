@@ -5,6 +5,7 @@ router = ($stateProvider, $urlRouterProvider) ->
     .state 'search',
       url: '/'
       templateUrl: 'search.html'
+      controller: 'SearchCtrl'
     .state 'results',
       url: '/results'
       templateUrl: 'results.html'
