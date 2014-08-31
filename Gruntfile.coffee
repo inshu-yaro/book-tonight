@@ -5,6 +5,8 @@ fs         = require 'fs'
 path       = require 'path'
 loremIpsum = require 'lorem-ipsum'
 
+localConfig = JSON.parse fs.readFileSync('.local.json')
+
 lorem = (count, options={}) ->
   if typeof count == 'number'
     options.count = count
@@ -31,13 +33,13 @@ module.exports = (grunt) ->
         files: 'assets/js**/*.coffee'
         tasks: ['brerror:newer:coffee:dev']
       stylesheets:
-        cwd: 'assets/css' 
+        cwd: 'assets/css'
         files: 'assets/css/**/*.styl'
-        tasks: ['brerror:newer:stylus:dev'] 
+        tasks: ['brerror:newer:stylus:dev']
       views:
-        cwd: 'views' 
+        cwd: 'views'
         files: 'views/**/*.jade'
-        tasks: ['brerror:newer:jade:dev'] 
+        tasks: ['brerror:newer:jade:dev']
       options:
         livereload: livereloadPort
 
@@ -50,7 +52,7 @@ module.exports = (grunt) ->
           dest: 'public'
           ext: '.js'
         ]
-    
+
     stylus:
       dev:
         files: [
@@ -66,7 +68,7 @@ module.exports = (grunt) ->
         use: [
           require 'axis-css'
         ]
-    
+
     jade:
       dev:
         files: [
@@ -80,7 +82,8 @@ module.exports = (grunt) ->
           pretty: true
           data:
             lorem: lorem
-    
+            apiKey: localConfig.apiKey
+
     connect:
       server:
         options:
@@ -135,9 +138,9 @@ module.exports = (grunt) ->
       fs.utimes file, date, date
 
   grunt.registerTask 'compile:dev', [
-    'copy'       
-    'jade:dev'   
-    'stylus:dev' 
+    'copy'
+    'jade:dev'
+    'stylus:dev'
     'coffee:dev'
   ]
   grunt.registerTask 'default', ['compile:dev', 'concurrent:start']
