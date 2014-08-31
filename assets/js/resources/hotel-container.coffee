@@ -5,6 +5,6 @@ hotelContainerProvider = ->
     hotels = _hotels
   getHotels: -> hotels
 
-angular.module('BookTonight').factory 'HotelContainer', [
+angular.module('BookTonight').factory 'hotelContainer', [
   hotelContainerProvider
 ]
