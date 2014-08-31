@@ -3,6 +3,7 @@ typography()
 html
   font-family: "brandon grotesque", HelveticaNeue, Helvetica, Arial, sans-serif
   color:#fff
+  -webkit-font-smoothing: antialiased;
 
 html, body, div[ui-view]
   width 100%
@@ -20,17 +21,19 @@ a
   color:#17599a
 
 body
-	background-image url(../img/bg.jpg)
+	background-image url(../img/bg-2.jpg)
 
 .header
 	width 100%
 	height 51px
+	opacity 0.8
 	background-color #fff
 	position relative
 	.logo
 		color #222
 		font-size 16px
-		top 50%
+		font-weight bold
+		top 45%
 		left 50%
 		margin-right -50%
 		margin 0
@@ -78,11 +81,23 @@ body
 			margin-left 9px
 
 // Landing Page
-.landing:before
-	height 180px
+.landing
+	height 200px
 	p.logo
 		font-size 20px
 		text-align center
+	.tagline
+		margin-top 0
+		color #222
+		text-align center
+		font-size 10px
+		top 65%
+		left 50%
+		margin-right -50%
+		margin 0
+		width 100%
+		position absolute
+		transform translate(-50%, -50%)
 
 .search
 	width 80%
@@ -96,27 +111,32 @@ body
 		padding-bottom 5px
 		margin-left 30px
 
+	.search-btn
+		margin-top 30px
+		a.btn
+			border-radius 300px
+			border 1px solid #eaeaea
+			font-size 14px
+			color #222
+			transition all 0.3s ease
+			display inline-block
+			// background-color #4674DE
+			// color #fff
+			width 60%
+			height 30px
+			padding 10px
+			cursor pointer
+
 // Reservation Page
 .reserve p.btn
 	margin-top 30px
-a.btn
-	background-color #3BB9FF
-	color #fff
-	width 60%
-	height 30px
-	padding 5px
-	cursor pointer
-
+	a.btn
+		background-color #3BB9FF
+		color #fff
+		width 60%
+		height 30px
+		padding 5px
+		cursor pointer
 
 .footer
 	text-align center
-
-.search-btn
-	margin-top 30px
-a.btn
-	background-color #3BB9FF
-	color #fff
-	width 60%
-	height 30px
-	padding 5px
-	cursor pointer

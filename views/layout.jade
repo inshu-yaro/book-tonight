@@ -30,7 +30,10 @@ html
     script(src="js/controllers/search.js")
   body(ng-app="BookTonight" ng-controller="PageCtrl")
     .header(ng-class="{landing: isRootPage}")
-        p.logo BOOK TONIGHT
+        p.logo
+            span.left BOOK 
+            span.right TONIGHT
+        p.tagline(ng-if="isRootPage") ワンクリックで予約できるカップル向けホテル検索アプリ
         .menu_icon
             a(href='#')
                 span.one
