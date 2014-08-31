@@ -1,4 +1,5 @@
 searchCtrl = ($scope, $state, geolocation, Hotel, hotelContainer) ->
+  $scope.setRootPage true
 
   makeSearch = (params) ->
     Hotel.query params, (hotels) ->

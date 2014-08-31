@@ -1,4 +1,5 @@
 resultsCtrl = ($scope, $window, $stateParams, geolocation, hotelContainer, MapDrawer) ->
+  $scope.setRootPage false
 
   initialize = (callback) ->
     geolocation.getLocation().then (location) ->
