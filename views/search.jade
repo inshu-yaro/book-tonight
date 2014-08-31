@@ -1,10 +1,9 @@
 .search
 	.place
-		p.title ホテルを検索
-		form(action='/', method='post', id='search-place')
-			fieldset
-				.search-box
-					label(for='どこへ') どこへ
+		.search-icon
+			img(src="img/search.png")
+		p.search-title ホテルを検索
+		
 	.price
 		form(action='/', method='post', id='select-price')
 			label(for='price')価格帯を選択:<br>
