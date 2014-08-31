@@ -8,10 +8,10 @@
 	.price
 		form(action='/', method='post', id='select-price')
 			label(for='price')価格帯を選択:<br>
-			select(name='price')
-				option(value='¥選択')選択
-				option(value='¥50,000〜')¥50,000〜
-				option(value='¥10,000〜')¥10,000〜
-				option(value='¥5,000〜')¥5,000〜
+			select(name='price' ng-model="price")
+				option(value='')選択
+				option(value='8000')¥〜8,000
+				option(value='15000')¥〜15,000
+				option(value='30000')¥〜30,000
 	.search-btn
-		a(class='btn', href='#') 近くのホテルを探す
+		a(class='btn', href='javascript:void(0)' ng-click="searchHotels()") 近くのホテルを探す

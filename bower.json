@@ -6,7 +6,8 @@
     "angular": "~1.2.23",
     "angularjs-geolocation": "~0.1.1",
     "angular-ui-router": "~0.2.11",
-    "angular-resource": "~1.2.23"
+    "angular-resource": "~1.2.23",
+    "moment": "~2.8.2"
   },
   "devDependencies": {}
 }
