@@ -1,12 +1,15 @@
 .hotel-title
 	.stars
-	.review
+	.review= "{{hotel.reviewAverage}}"
 .hotel-pic
+	img(ng-src="{{hotel.roomImageUrl}}")
 .room
 	p.room 後部屋!
-	p.price ¥
+	p.price= "¥{{hotel.hotelMinCharge}}〜"
 .direction
-	.address
+	.address= "{{hotel.addres1}}{{hotel.address2}}"
 	.map
+		img(ng-src="{{hotel.hotelMapImageUrl}}")
 .reserve
-	a(class='btn', href='javascript:void(0)' ng-click="reserveHotels()") 予約する
+	a(class='btn', href='tel:{{hotel.telephoneNo}}' ng-click="reserveHotels()")
+		= "{{hotel.telephoneNo}}"
