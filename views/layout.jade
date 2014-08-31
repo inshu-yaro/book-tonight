@@ -31,6 +31,12 @@ html
   body(ng-app="BookTonight" ng-controller="PageCtrl")
     .header(ng-class="{landing: isRootPage}")
         p.logo BOOK TONIGHT
+        .menu_icon
+            a(href='#')
+                span.one
+                span.two
+                span.three
+                span.four
     block content
     .footer
         .copyright
