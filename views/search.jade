@@ -1,2 +1,17 @@
 .search
-  p search
+	.place
+		p.title ホテルを検索
+		form(action='/', method='post', id='search-place')
+			fieldset
+				.search-box
+					label(for='どこへ') どこへ
+	.price
+		form(action='/', method='post', id='select-price')
+			label(for='price')価格帯を選択:<br>
+			select(name='price')
+				option(value='¥選択')選択
+				option(value='¥50,000〜')¥50,000〜
+				option(value='¥10,000〜')¥10,000〜
+				option(value='¥5,000〜')¥5,000〜
+	.search-btn
+		a(class='btn', href='#') 近くのホテルを探す

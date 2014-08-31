@@ -1,13 +1,18 @@
 typography()
 
 html
-  font-family: "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif
-  color:#555
+  font-family: "brandon grotesque", HelveticaNeue, Helvetica, Arial, sans-serif
+  color:#fff
 
 html, body, div[ui-view]
   width 100%
   height 100%
   margin 0 auto
+
+border-radius()
+  -webkit-border-radius arguments
+  -moz-border-radius arguments
+  border-radius arguments
 
 .hotels
   height 100%
@@ -18,3 +23,36 @@ html, body, div[ui-view]
 
 a
   color:#17599a
+
+body
+	background-image url(../img/bg.jpg)
+
+.header
+	width 100%
+	height 54px
+	background-color #fff
+	.logo
+		color #17599a
+		font-size 18px
+		margin 0
+		padding 14px 0 20px 14px
+
+
+@media screen and (max-width: 320px)
+	#search-place
+		width 80%
+
+	.search-btn
+		margin-top 30px
+	a.btn
+		background-color #3BB9FF
+		color #fff
+		width 60%
+		height 30px
+		padding 5px
+		cursor pointer
+// .seach-box
+// 	fieldset
+// 		padding 5px
+// 		border 1px solid
+// 		border-radius 5px
