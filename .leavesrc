@@ -1,0 +1,9 @@
+{
+    "project": {
+        "appname": "book-tonight",
+        "options": {
+            "css": "stylus",
+            "html": "jade"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "book-tonight",
+  "private": true,
+  "version": "0.1.0",
+  "dependencies": {
+    "angular": "~1.2.23"
+  },
+  "devDependencies": {}
+}
