@@ -12,7 +12,9 @@ mapDrawerProvider = ->
         position: latLng
         map: @map
         title: hotel.hotelName
+        hotel: hotel
       @markers.push(marker)
+
 
 angular.module('BookTonight').factory 'MapDrawer', [
   mapDrawerProvider
