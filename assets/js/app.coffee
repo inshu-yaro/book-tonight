@@ -6,12 +6,13 @@ runCallback = ($window, geolocation) ->
   initialize = ->
     geolocation.getLocation().then (location) ->
       callback(location.coords)
-    , -> callback()
+    , (err) ->
+      callback()
 
     callback = (loc) ->
-      loc ?= { lat: 35.689735, long: 139.70026 }
+      loc ?= { latitude: 35.689735, longitude: 139.70026 }
       mapOptions =
-        center: new google.maps.LatLng(loc.lat, loc.long)
+        center: new google.maps.LatLng(loc.latitude, loc.longitude)
         zoom: 14
       map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions)
 
