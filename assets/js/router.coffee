@@ -10,6 +10,10 @@ router = ($stateProvider, $urlRouterProvider) ->
       url: '/results'
       templateUrl: 'results.html'
       controller: 'ResultsCtrl'
+    .state 'reservation',
+      url: '/reservation'
+      templateUrl: 'reservation.html'
+      controller: 'ReservationCtrl'
 
 
 angular.module('BookTonight').config [

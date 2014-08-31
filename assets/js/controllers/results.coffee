@@ -1,4 +1,5 @@
-resultsCtrl = ($scope, $window, $stateParams, geolocation, hotelContainer, MapDrawer) ->
+resultsCtrl = ($scope, $window, $state, $stateParams, geolocation, hotelContainer, MapDrawer) ->
+  $scope.setRootPage false
 
   initialize = (callback) ->
     geolocation.getLocation().then (location) ->
@@ -17,13 +18,15 @@ resultsCtrl = ($scope, $window, $stateParams, geolocation, hotelContainer, MapDr
 
   drawHotels = (map) ->
     mapDrawer = new MapDrawer(map)
-    mapDrawer.drawHotels(hotelContainer.getHotels())
+    mapDrawer.drawHotels hotelContainer.getHotels(), (marker, hotel) ->
+      hotelContainer.setCurrentHotel hotel
+      $state.go 'reservation'
 
   google.maps.event.addDomListener($window, 'load', initialize)
   initialize()
 
 
 angular.module('BookTonight').controller 'ResultsCtrl', [
-  '$scope', '$window', '$stateParams', 'geolocation'
+  '$scope', '$window', '$state', '$stateParams', 'geolocation'
   'hotelContainer', 'MapDrawer', resultsCtrl
 ]
