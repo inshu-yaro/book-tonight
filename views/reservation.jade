@@ -1,6 +1,5 @@
 .reservation
-	.hotel-title
-		.stars
+	.hotel-title="{{hotel.hotelName}}"
 		.review= "{{hotel.reviewAverage}}"
 	.hotel-pic
 		img(ng-src="{{hotel.roomImageUrl}}")
