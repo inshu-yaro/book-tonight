@@ -3,14 +3,14 @@
 		.search-icon
 			img(src="img/search.png")
 		p.search-title ホテルを検索
-
 	.price
-		form(action='/', method='post', id='select-price')
-			label(for='price')価格帯を選択:<br>
-			select(name='price' ng-model="price")
-				option(value='')選択
-				option(value='8000')¥〜8,000
-				option(value='15000')¥〜15,000
-				option(value='30000')¥〜30,000
+		.lowest 野宿以外コース
+			.yen ¥
+		.mid-low 給料日前コース
+			.yen ¥¥
+		.mid-high 給料日後コース
+			.yen ¥¥¥
+		.highest 御曹司コース
+			.yen ¥¥¥¥
 	.search-btn
 		a(class='btn', href='javascript:void(0)' ng-click="searchHotels()") 近くのホテルを探す
