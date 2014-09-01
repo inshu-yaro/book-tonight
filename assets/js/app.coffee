@@ -4,4 +4,4 @@ app = angular.module 'BookTonight', [
   'geolocation'
 ]
 
-app.value 'API_ENDPOINT', 'http://localhost:5000'
+app.value 'API_ENDPOINT', 'http://book-tonight-api.herokuapp.com'
