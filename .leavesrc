@@ -1,9 +1,10 @@
 {
-    "project": {
-        "appname": "book-tonight",
-        "options": {
-            "css": "stylus",
-            "html": "jade"
-        }
+  "project": {
+    "appname": "book-tonight",
+    "options": {
+      "css": "stylus",
+      "html": "jade"
     }
+  },
+  "herokuAppName": "book-tonight"
 }
