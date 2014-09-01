@@ -3,6 +3,7 @@ searchCtrl = ($scope, $state, geolocation, Hotel, hotelContainer) ->
 
   makeSearch = (params) ->
     Hotel.query params, (hotels) ->
+      $scope.setLoading  false
       hotelContainer.setHotels hotels
       $state.go 'results'
 
@@ -27,6 +28,7 @@ searchCtrl = ($scope, $state, geolocation, Hotel, hotelContainer) ->
       maxCharge: priceRange[1]
 
   $scope.searchHotels = (price) ->
+    $scope.setLoading true
     console.log 'Searching'
     geolocation.getLocation().then (location) ->
       params = getParams(location.coords, price)

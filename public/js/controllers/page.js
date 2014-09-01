@@ -6,6 +6,10 @@
     $scope.setRootPage = function(b) {
       return $scope.isRootPage = b;
     };
+    $scope.loading = false;
+    $scope.setLoading = function(b) {
+      return $scope.loading = b;
+    };
     return $scope.back = function() {
       return $window.history.back();
     };

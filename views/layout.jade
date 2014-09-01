@@ -29,11 +29,14 @@ html
     script(src="js/controllers/page.js")
     script(src="js/controllers/search.js")
   body(ng-app="BookTonight" ng-controller="PageCtrl")
+    #loading-overlay(ng-show="loading")
+        .loader-container
+            img(src="img/loader.gif")
     .header(ng-class="{landing: isRootPage}")
         .return(ng-hide="isRootPage" ng-click="back()")
             img(src="img/return.png")
         p.logo
-            span.left BOOK 
+            span.left BOOK
             span.right TONIGHT
         p.tagline(ng-if="isRootPage") ワンクリックで予約できるカップル向けホテル検索アプリ
         .menu_icon

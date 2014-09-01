@@ -6,6 +6,7 @@
     $scope.setRootPage(true);
     makeSearch = function(params) {
       return Hotel.query(params, function(hotels) {
+        $scope.setLoading(false);
         hotelContainer.setHotels(hotels);
         return $state.go('results');
       });
@@ -39,6 +40,7 @@
       };
     };
     return $scope.searchHotels = function(price) {
+      $scope.setLoading(true);
       console.log('Searching');
       return geolocation.getLocation().then(function(location) {
         var params;

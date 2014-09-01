@@ -174,8 +174,9 @@ div[ui-view] {
   height: 100%;
 }
 #map-canvas {
-  height: 60%;
-  width: 60%;
+  height: 80%;
+  width: 80%;
+  margin: 10px auto;
 }
 a {
   color: #17599a;
@@ -459,4 +460,15 @@ body {
   padding: 8px 60px;
   margin-left: 40px;
   cursor: pointer;
+}
+#loading-overlay {
+  height: 100%;
+  width: 100%;
+  background-color: rgba(200,200,200,0.3);
+  position: absolute;
+  z-index: 100;
+}
+#loading-overlay .loader-container {
+  margin: 40% 50% 0 50%;
+  width: 10%;
 }
