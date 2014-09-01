@@ -1,0 +1,3109 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"infow",
+				"infoWindow"
+			],
+			[
+				"ifno",
+				"infoWindows"
+			],
+			[
+				"ma",
+				"maps"
+			],
+			[
+				"revi",
+				"reviewAverage"
+			],
+			[
+				"hotel",
+				"hotelName"
+			],
+			[
+				"hote",
+				"hotel"
+			],
+			[
+				"resc",
+				"reservationCtrl"
+			],
+			[
+				"reser",
+				"reservation"
+			],
+			[
+				"mark",
+				"marker"
+			],
+			[
+				"pri",
+				"priceRange"
+			],
+			[
+				"getP",
+				"getPriceRange"
+			],
+			[
+				"Pro",
+				"Proj4js"
+			],
+			[
+				"darw",
+				"drawHotels"
+			],
+			[
+				"Map",
+				"MapDrawer"
+			],
+			[
+				"get",
+				"getHotels"
+			],
+			[
+				"Hotel",
+				"HotelContainer"
+			],
+			[
+				"Ho",
+				"HotelContainer"
+			],
+			[
+				"se",
+				"search"
+			],
+			[
+				"resul",
+				"resultsCtrl"
+			],
+			[
+				"ho",
+				"hotelShowController"
+			],
+			[
+				"cot",
+				"controller	\\$controller"
+			],
+			[
+				"reo",
+				"resource	\\$resource"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"ru",
+				"runCallback"
+			],
+			[
+				"Boo",
+				"BookTonight"
+			],
+			[
+				"api",
+				"apiKey"
+			],
+			[
+				"local",
+				"localConfig"
+			],
+			[
+				"run",
+				"runInstall"
+			],
+			[
+				"npm",
+				"npmHelpers"
+			],
+			[
+				"githu",
+				"github"
+			],
+			[
+				"hero",
+				"heroku"
+			],
+			[
+				"app",
+				"appName"
+			],
+			[
+				"default",
+				"defaultValue"
+			],
+			[
+				"leav",
+				"leaves"
+			],
+			[
+				"zsh",
+				"zshPath"
+			],
+			[
+				"modul",
+				"moduleGlobalPath"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"scr",
+				"scriptPath"
+			],
+			[
+				"setup",
+				"setupZsh"
+			],
+			[
+				"proj",
+				"project"
+			],
+			[
+				"leaves",
+				"leavesrc"
+			],
+			[
+				"sr",
+				"srcInfo"
+			],
+			[
+				"proec",
+				"project"
+			],
+			[
+				"compil",
+				"compileTemplate"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"to",
+				"toKeep"
+			],
+			[
+				"exp",
+				"exports"
+			],
+			[
+				"bra",
+				"branches"
+			],
+			[
+				"final",
+				"finalizePublish"
+			],
+			[
+				"comm",
+				"commitIfNeeded"
+			],
+			[
+				"dire",
+				"directoryPath"
+			],
+			[
+				"repo",
+				"repository"
+			],
+			[
+				"pub",
+				"publishToRemote"
+			],
+			[
+				"l",
+				"log	log"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"push",
+				"pushUrl"
+			],
+			[
+				"test",
+				"testRepository"
+			],
+			[
+				"show",
+				"showRemote"
+			],
+			[
+				"Cli",
+				"CliCommand"
+			],
+			[
+				"sto",
+				"stdout"
+			],
+			[
+				"remo",
+				"remoteStr"
+			],
+			[
+				"rem",
+				"remoteStr"
+			],
+			[
+				"expe",
+				"expected"
+			],
+			[
+				"reote",
+				"remoteStr"
+			],
+			[
+				"logs",
+				"logsCount"
+			],
+			[
+				"log",
+				"log	log"
+			],
+			[
+				"std",
+				"stdout"
+			],
+			[
+				"cli",
+				"cliOpts"
+			],
+			[
+				"cover",
+				"coveralls-img"
+			],
+			[
+				"mo",
+				"modified"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"base",
+				"baseRepository"
+			],
+			[
+				"adde",
+				"addedFilePath"
+			],
+			[
+				"chan",
+				"changes"
+			],
+			[
+				"add",
+				"addedFilePath"
+			],
+			[
+				"edi",
+				"edited"
+			],
+			[
+				"edite",
+				"editedFilePath"
+			],
+			[
+				"un",
+				"untracked"
+			],
+			[
+				"file",
+				"filePath"
+			],
+			[
+				"on",
+				"onSuccess"
+			],
+			[
+				"rp",
+				"repository"
+			],
+			[
+				"sd",
+				"stderr"
+			],
+			[
+				"statu",
+				"statusStr"
+			],
+			[
+				"st",
+				"stderr"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"option",
+				"options"
+			],
+			[
+				"co",
+				"command"
+			],
+			[
+				"CLi",
+				"CliOption"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"is",
+				"isUndefined"
+			],
+			[
+				"opti",
+				"options"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"optio",
+				"options"
+			],
+			[
+				"isa",
+				"isArray"
+			],
+			[
+				"ot",
+				"options"
+			],
+			[
+				"args",
+				"argsString"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"allo",
+				"allowedTypesString"
+			],
+			[
+				"pair",
+				"pairs"
+			],
+			[
+				"all",
+				"allowedTypes"
+			],
+			[
+				"makeo",
+				"makeOptionString"
+			],
+			[
+				"format",
+				"formatOptionWithArgs"
+			],
+			[
+				"oti",
+				"optionsList"
+			],
+			[
+				"exec",
+				"execute"
+			],
+			[
+				"erro",
+				"error"
+			],
+			[
+				"wor",
+				"workingDir"
+			],
+			[
+				"gi",
+				"GitError"
+			],
+			[
+				"simp",
+				"simpleGit"
+			],
+			[
+				"sim",
+				"simpleGit"
+			],
+			[
+				"moca",
+				"mochaTest:test"
+			],
+			[
+				"mocha",
+				"mochaTest:test"
+			],
+			[
+				"moh",
+				"mochaTest"
+			],
+			[
+				"simple",
+				"simple-git"
+			],
+			[
+				"EXI",
+				"EXIT_SUCCESS	macro"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"uplo",
+				"uploaded_image"
+			],
+			[
+				"base_",
+				"base_picture"
+			],
+			[
+				"origi",
+				"original_image"
+			],
+			[
+				"upl",
+				"uploaded_image"
+			],
+			[
+				"render",
+				"render_404"
+			],
+			[
+				"api_",
+				"api_secret"
+			],
+			[
+				"comi",
+				"comic_images"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"ano",
+				"anonymous_avatar"
+			],
+			[
+				"cat",
+				"cat_name"
+			],
+			[
+				"bae",
+				"base_rel"
+			],
+			[
+				"coo",
+				"coocreed"
+			],
+			[
+				"fi",
+				"finishing"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "assets/js/resources/hotel-container.coffee",
+			"settings":
+			{
+				"buffer_size": 333,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/js/services/map-drawer.coffee",
+			"settings":
+			{
+				"buffer_size": 867,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/js/app.coffee",
+			"settings":
+			{
+				"buffer_size": 152,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/js/controllers/results.coffee",
+			"settings":
+			{
+				"buffer_size": 1019,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/reservation.jade",
+			"settings":
+			{
+				"buffer_size": 415,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/results.jade",
+			"settings":
+			{
+				"buffer_size": 34,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 370.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":e",
+				":e - Open file"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				":wq",
+				":wq - Save and Quit"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				":ww",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"shel",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"previ",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"preview",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				":q",
+				":q - Quit"
+			],
+			[
+				":d",
+				"File: Delete"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				":WQ",
+				":wq - Save and Quit"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				"rn",
+				"File: Rename"
+			],
+			[
+				"rne",
+				"File: Rename"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"slim",
+				"Set Syntax: Ruby Slim"
+			],
+			[
+				"todore",
+				"TodoReview: Project Files"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"project",
+				"Project: Edit"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"dlee",
+				"File: Delete"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"sli",
+				"Set Syntax: Ruby Slim"
+			],
+			[
+				"setting",
+				"Preferences: Settings - Default"
+			],
+			[
+				"settingsu",
+				"Preferences: Settings - User"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"addde",
+				"Project: Add Folder"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"me",
+				"View: Toggle Menu"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"keybi",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ren	",
+				"File: Rename"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				":qw",
+				":wq - Save and Quit"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"bow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brows",
+				"SFTP: Browse Server…"
+			],
+			[
+				"server",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"ya",
+				"Set Syntax: YAML"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"sapce",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pre",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"per",
+				"Permute Lines: Reverse"
+			],
+			[
+				"prett",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"left",
+				"BracketHighlighter: Jump to Left Bracket"
+			],
+			[
+				"right",
+				"BracketHighlighter: Jump to Right Bracket"
+			],
+			[
+				"righ",
+				"BracketHighlighter: Jump to Right Bracket"
+			],
+			[
+				"lef",
+				"BracketHighlighter: Jump to Left Bracket"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				":dd",
+				"AngularJS: Toggle - Disable Built-in Directive Completions"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"prefe",
+				"Preferences: Settings - User"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - User"
+			],
+			[
+				":end",
+				"Snippet: namespace :.. do .. end"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"github",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"settingsuser",
+				"Preferences: Settings - User"
+			],
+			[
+				"runa",
+				"RubyTest: Run All Ruby Tests"
+			],
+			[
+				"settings user",
+				"Preferences: Settings - User"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"runal",
+				"RubyTest: Run All Ruby Tests"
+			],
+			[
+				"ruanl",
+				"RubyTest: Run All Ruby Tests"
+			],
+			[
+				"ruall",
+				"RubyTest: Run All Ruby Tests"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"run",
+				"RubyTest: Run Last Ruby Test"
+			],
+			[
+				"rula",
+				"RubyTest: Run Last Ruby Test"
+			],
+			[
+				"tog",
+				"View: Toggle Menu"
+			],
+			[
+				":ws",
+				":w - Save"
+			],
+			[
+				"runall",
+				"RubyTest: Run All Ruby Tests"
+			],
+			[
+				"runsin",
+				"RubyTest: Run Single Test"
+			],
+			[
+				"runsi",
+				"RubyTest: Run Single Test"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"setings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"bindingu",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"settin",
+				"Preferences: Settings - User"
+			],
+			[
+				"ym",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"cucu",
+				"Gherkin/Cucumber: Format"
+			],
+			[
+				"cumc",
+				"Gherkin/Cucumber: Format"
+			],
+			[
+				"mo",
+				"File: Move"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"gherk",
+				"Gherkin/Cucumber: Format"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"d",
+				"File: Delete"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"setti",
+				"Preferences: Settings - User"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"rig",
+				"BracketHighlighter: Jump to Right Bracket"
+			],
+			[
+				":	",
+				":w - Save"
+			],
+			[
+				"dle",
+				"File: Delete"
+			],
+			[
+				"dlete",
+				"File: Delete"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"delte",
+				"File: Delete"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 661.0,
+		"history":
+		[
+			"window.run_command(\"hot_project_exit\")",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"f",
+			"v.viewport_position()",
+			"window.focus_view(v)",
+			"window.focus(v)",
+			"v.run_command('move_to', {'extent': False, 'to': 'bof'})",
+			"v.run_command('move_to', {'extent': False, 'to', 'bof'})",
+			"v = window.active_view()",
+			"window.active_view().file_name()",
+			"window.active_view()",
+			"window",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_command(False)",
+			"view.run_command('cut')",
+			"sublime.log_commands(True)",
+			"sublime.show_commands(True)",
+			"sublime.version()",
+			"sublime.version",
+			"sublime.verison",
+			"sublime.log_commands(True)",
+			"sublime.log_command(True)",
+			"window.run_command(\"close_project\")",
+			"window.views()[0].is_dirty()",
+			"window.views()[0].run_command(\"close\")",
+			"window.views().run_command(\"close_project\")",
+			"window.views()",
+			"window",
+			"window.run_command(\"set_layout\")",
+			"window.run_command(\"close_project\")",
+			"window",
+			"close_project()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": true
+	},
+	"expanded_folders":
+	[
+		"/home/daniel/Documents/organizations/junkers/book-tonight"
+	],
+	"file_history":
+	[
+		"/home/daniel/Documents/organizations/junkers/book-tonight/assets/js/controllers/search.coffee",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/views/search.jade",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/Gruntfile.coffee",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/book-tonight.sublime-project",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/assets/js/controllers/results.coffee",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/assets/js/controllers/reservation.coffee",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/assets/css/main.styl",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/bower.json",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/views/reservation.jade",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/assets/js/resources/hotel.coffee",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/views/layout.jade",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/assets/js/router.coffee",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/assets/js/services/map-drawer.coffee",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/assets/js/resources/hotel-container.coffee",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/views/results.jade",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/assets/js/controllers/page.coffee",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/assets/js/app.coffee",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/package.json",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/views/index.jade",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/assets/js/.keep",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/public/components/moment/moment.js",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/public/index.html",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/public/components/moment/LICENSE",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/public/components/moment/README.md",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/public/components/moment/bower.json",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/foo.js",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/assets/js/bootstrap.coffee",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/.components/angular-ui-router/release/angular-ui-router.js",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/.components/angular-ui-router/README.md",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/.components/angular-ui-router/.bower.json",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/.components/angular-ui-router/LICENSE",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/public/components/angular-ui-router/README.md",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/public/components/angular-ui-router/release/angular-ui-router.js",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/public/components/angular-ui-router/LICENSE",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/public/favicon.ico",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/public/components/angularjs-geolocation/dist/angularjs-geolocation.min.js",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/public/components/angularjs-geolocation/LICENSE",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/public/js/app.js",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/.local.json",
+		"/home/daniel/Documents/organizations/junkers/book-tonight/.leavesrc",
+		"/home/daniel/Documents/organizations/claudetech/npm-packages/leaves/bin/leaves.js",
+		"/home/daniel/Documents/organizations/claudetech/npm-packages/leaves/Gruntfile.coffee",
+		"/home/daniel/Documents/organizations/claudetech/npm-packages/leaves/src/commands/new.coffee",
+		"/home/daniel/Documents/organizations/claudetech/npm-packages/leaves/src/commands/upgrade.coffee",
+		"/home/daniel/Documents/organizations/claudetech/npm-packages/leaves/src/commands/watch.coffee",
+		"/home/daniel/Documents/organizations/claudetech/npm-packages/leaves/src/gh-publisher.coffee",
+		"/home/daniel/Documents/organizations/claudetech/npm-packages/leaves/src/path-resolver.coffee",
+		"/home/daniel/Documents/organizations/claudetech/npm-packages/leaves/test/test-cli-parser.coffee",
+		"/home/daniel/Documents/organizations/claudetech/npm-packages/leaves/src/commands/setup.coffee",
+		"/home/daniel/tmp/foo/views/index.jade",
+		"/home/daniel/Documents/organizations/claudetech/npm-packages/leaves/leaves.sublime-project",
+		"/home/daniel/Documents/organizations/claudetech/npm-packages/leaves/LICENSE",
+		"/home/daniel/Documents/organizations/claudetech/npm-packages/leaves/src/commands/publish.coffee",
+		"/home/daniel/Documents/organizations/claudetech/npm-packages/leaves/README.md",
+		"/home/daniel/Documents/organizations/claudetech/npm-packages/leaves/tools/shells/zsh/completions/_leaves",
+		"/home/daniel/Documents/organizations/claudetech/npm-packages/leaves/tools/shells/zsh/leaves-init.sh",
+		"/home/daniel/Documents/organizations/claudetech/npm-packages/leaves/src/cli-parser.coffee",
+		"/home/daniel/Documents/organizations/claudetech/npm-packages/leaves/src/npm-helpers.coffee",
+		"/home/daniel/Documents/organizations/claudetech/npm-packages/leaves/src/commands/build.coffee",
+		"/home/daniel/Documents/organizations/claudetech/npm-packages/leaves/package.json",
+		"/home/daniel/Documents/organizations/claudetech/leaves/tools/shells/zsh/completions/_leaves",
+		"/home/daniel/Documents/organizations/claudetech/leaves/src/gh-publisher.coffee",
+		"/home/daniel/Documents/organizations/claudetech/leaves/src/commands/upgrade.coffee",
+		"/home/daniel/Documents/organizations/claudetech/leaves/src/npm-helpers.coffee",
+		"/home/daniel/Documents/organizations/claudetech/leaves/LICENSE",
+		"/home/daniel/Documents/organizations/claudetech/leaves/src/commands/new.coffee",
+		"/home/daniel/Documents/organizations/claudetech/leaves/src/cli-parser.coffee",
+		"/home/daniel/Documents/organizations/claudetech/leaves/index.html",
+		"/home/daniel/Documents/organizations/claudetech/leaves/Gruntfile.coffee",
+		"/home/daniel/Documents/organizations/claudetech/leaves/leaves.sublime-project",
+		"/home/daniel/Documents/organizations/claudetech/leaves/src/commands/build.coffee",
+		"/home/daniel/Documents/organizations/claudetech/leaves/README.md",
+		"/home/daniel/Documents/organizations/claudetech/leaves/src/commands/watch.coffee",
+		"/home/daniel/Documents/organizations/claudetech/leaves/src/commands/publish.coffee",
+		"/home/daniel/Documents/organizations/claudetech/leaves/package.json",
+		"/home/daniel/Documents/organizations/claudetech/leaves/lib/gh-publisher.js",
+		"/home/daniel/Documents/organizations/claudetech/leaves/src/path-resolver.coffee",
+		"/home/daniel/Documents/organizations/claudetech/leaves/lib/cli-parser.js",
+		"/home/daniel/Documents/organizations/claudetech/leaves/lib/path-resolver.js",
+		"/home/daniel/Documents/organizations/claudetech/leaves/src/commands/run.coffee",
+		"/home/daniel/Documents/organizations/claudetech/leaves/.gitignore",
+		"/home/daniel/Documents/organizations/claudetech/leaves/.npmignore",
+		"/home/daniel/Documents/organizations/claudetech/leaves/bin/leaves.js",
+		"/home/daniel/Documents/organizations/claudetech/leaves/test/test-cli-parser.coffee",
+		"/home/daniel/Documents/organizations/claudetech/leaves/lib/commands/new.js",
+		"/home/daniel/Documents/organizations/claudetech/leaves/lib/commands/build.js",
+		"/home/daniel/Documents/organizations/claudetech/coocreed/app/assets/stylesheets/_comments.css.scss",
+		"/home/daniel/Documents/organizations/claudetech/coocreed/app/assets/stylesheets/mixins/_general_button.css.scss",
+		"/home/daniel/Documents/organizations/claudetech/coocreed/app/assets/stylesheets/main.css.scss",
+		"/home/daniel/Documents/organizations/claudetech/coocreed/app/assets/stylesheets/reset.css.scss",
+		"/home/daniel/Documents/organizations/claudetech/coocreed/app/assets/stylesheets/mixins.css.scss",
+		"/home/daniel/Documents/organizations/claudetech/coocreed/.bundle/bin/scss",
+		"/home/daniel/Documents/organizations/claudetech/coocreed/.bundle/bin/sass-convert",
+		"/home/daniel/Documents/organizations/claudetech/coocreed/.bundle/bin/slimrb",
+		"/home/daniel/tmp/foo/abc/bar.scss",
+		"/home/daniel/tmp/foo/abc/foo.scss",
+		"/home/daniel/tmp/foo/abc/_bar.scss",
+		"/home/daniel/Documents/projects/node-git-cli/test/cli-option-test.coffee",
+		"/home/daniel/Documents/projects/node-git-cli/src/cli-command.coffee",
+		"/home/daniel/Documents/projects/node-git-cli/src/cli-option.coffee",
+		"/home/daniel/Documents/projects/node-git-cli/test/git-util-test.coffee",
+		"/home/daniel/Documents/projects/node-git-cli/src/git-util.coffee",
+		"/home/daniel/Documents/projects/node-git-cli/test/repository-test.coffee",
+		"/home/daniel/Documents/projects/node-git-cli/src/runner.coffee",
+		"/home/daniel/Documents/projects/node-git-cli/src/repository.coffee",
+		"/home/daniel/Documents/projects/node-git-cli/Gruntfile.coffee",
+		"/home/daniel/Documents/projects/node-git-cli/package.json",
+		"/home/daniel/Documents/projects/node-git-cli/README.md",
+		"/home/daniel/Documents/projects/node-git-cli/.travis.yml",
+		"/home/daniel/Documents/projects/node-simple-git/test/test-helpers.coffee",
+		"/home/daniel/Documents/projects/node-simple-git/test/repository-test.coffee",
+		"/home/daniel/Documents/projects/node-simple-git/src/runner.coffee",
+		"/home/daniel/Documents/projects/node-simple-git/src/cli-option.coffee",
+		"/home/daniel/Documents/projects/node-simple-git/src/util.coffee",
+		"/home/daniel/Documents/projects/node-simple-git/Gruntfile.coffee",
+		"/home/daniel/Documents/projects/node-simple-git/node-simple-git.sublime-project",
+		"/home/daniel/Documents/projects/node-simple-git/src/errors.coffee",
+		"/home/daniel/Documents/projects/node-simple-git/src/repository.coffee",
+		"/home/daniel/Documents/projects/node-simple-git/package.json",
+		"/home/daniel/Documents/projects/node-simple-git/test/git-util-test.coffee",
+		"/home/daniel/Documents/projects/node-simple-git/src/cli-command.coffee",
+		"/home/daniel/Documents/projects/node-simple-git/README.md",
+		"/home/daniel/Documents/projects/node-simple-git/src/simple-git.coffee",
+		"/home/daniel/Documents/projects/node-simple-git/.gitignore",
+		"/home/daniel/Documents/projects/node-simple-git/src/git-util.coffee",
+		"/home/daniel/Documents/projects/node-simple-git/test/util-test.coffee",
+		"/home/daniel/Documents/projects/node-simple-git/test/cli-option-test.coffee",
+		"/home/daniel/Documents/projects/node-simple-git/test/cli-command-test.coffee"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.*",
+			"*_spec.rb",
+			"*.*",
+			"*.html.erb",
+			"*.*",
+			"*.rb",
+			"*.less",
+			"*.*",
+			"*.js*",
+			"*.coffee",
+			"*.rb",
+			"*.coffee",
+			"*.rb",
+			"*.coffee",
+			"*.rb",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jpg",
+			"console.log",
+			" ",
+			"dms2deg",
+			"var",
+			"callback",
+			"console.log",
+			"hotelProvider",
+			"$stateParams",
+			"resultsCtrl",
+			"=",
+			"hotelProvider",
+			"ResultsCtrl",
+			"resultsCtrl",
+			"hotelShow",
+			"stateprovider",
+			"angular.module",
+			"jade",
+			"install",
+			"npm",
+			"console.log",
+			"grunt.tasks",
+			"dest",
+			"opts",
+			"build",
+			"leavesrc",
+			"leaverc",
+			"upgrade",
+			"/html",
+			"runInstall",
+			"npm.load",
+			"jade",
+			"opts",
+			"stylus",
+			"config",
+			"globalBasePath",
+			"info",
+			"push",
+			"newcallback",
+			"grunt",
+			"publishtoremote",
+			"run",
+			"fileGlobal",
+			"moduleGlobal",
+			"remote",
+			"callback",
+			"callbac",
+			"callback",
+			"dopublish",
+			"finalizePublish",
+			"log",
+			"push",
+			"log",
+			"grunt",
+			"npm",
+			"er",
+			"install",
+			"npmInstall",
+			"switchbranch",
+			"workingdir",
+			"callback",
+			"remote",
+			"gheckout",
+			"    # repo.add (err) ->\n  ",
+			"skipInstall",
+			"spawn",
+			"initwitharguments",
+			"cliopts",
+			"node-simple-git",
+			"node",
+			"add",
+			"remove",
+			"console.log",
+			"log",
+			"console.log",
+			"args",
+			"parse",
+			"testrepository",
+			"clone",
+			"option",
+			"changes",
+			"edited",
+			"modified",
+			"edited",
+			"untracked",
+			"it ",
+			"it",
+			"baseRepository",
+			"testRepository",
+			"change",
+			"filePath",
+			"BAD_PATH_MSG",
+			"files",
+			"push",
+			"status",
+			"testrepo",
+			"path",
+			"extra",
+			"file",
+			"clone",
+			"repository",
+			"tmp",
+			"options",
+			"arg",
+			"length",
+			"valueString",
+			"args",
+			"arguments",
+			"option",
+			"checkArgs",
+			"value",
+			"S(",
+			"arg",
+			"args",
+			"ofBackground",
+			"filename",
+			"file_url",
+			"compile",
+			"coming_soon",
+			"coming",
+			"render_404",
+			"with",
+			"no_register",
+			"no_register_button",
+			"button",
+			"redirect",
+			"ComicImage",
+			"select"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"  ",
+			"quest",
+			"Post",
+			"filename_format",
+			"ja\n",
+			"ja_\n",
+			"ROOT",
+			"instance",
+			"user",
+			"_",
+			"jp_name",
+			"courses.school",
+			"net_portal.school",
+			"data",
+			"b",
+			"C.fromByteString",
+			"C.toByteString",
+			"datas",
+			"h",
+			"test",
+			"omg",
+			"size=7",
+			"size=10",
+			"size=14",
+			"9",
+			"3.2.8"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assets/js/resources/hotel-container.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								182,
+								182
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountSyntax": "coffeescript",
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/js/services/map-drawer.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 867,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								640,
+								640
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountSyntax": "coffeescript",
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/js/app.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "coffeescript",
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/js/controllers/results.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1019,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								310,
+								310
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountSyntax": "coffeescript",
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "views/reservation.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountSyntax": "jade",
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "views/results.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountSyntax": "jade",
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.9o:///home/daniel/Documents/organizations/voix/voice-webapp/spec/requests":
+	{
+		"height": 140.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 140.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 134.0
+	},
+	"output.clang":
+	{
+		"height": 130.0
+	},
+	"output.dart.config.check":
+	{
+		"height": 146.0
+	},
+	"output.exec":
+	{
+		"height": 361.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 130.0
+	},
+	"output.haskell_error_checker":
+	{
+		"height": 130.0
+	},
+	"output.haskell_sublime_load":
+	{
+		"height": 124.0
+	},
+	"output.haskell_type_panel":
+	{
+		"height": 130.0
+	},
+	"output.sbt":
+	{
+		"height": 0.0
+	},
+	"output.sbt_error":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 140.0
+	},
+	"project": "book-tonight.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ap",
+				"assets/js/app.coffee"
+			],
+			[
+				"reul",
+				"assets/js/controllers/results.coffee"
+			],
+			[
+				"se",
+				"views/search.jade"
+			],
+			[
+				"resu",
+				"assets/js/controllers/results.coffee"
+			],
+			[
+				"sercof",
+				"assets/js/controllers/search.coffee"
+			],
+			[
+				"sear",
+				"views/search.jade"
+			],
+			[
+				"reserja",
+				"views/reservation.jade"
+			],
+			[
+				"reserco",
+				"assets/js/controllers/reservation.coffee"
+			],
+			[
+				"htoecon",
+				"assets/js/resources/hotel-container.coffee"
+			],
+			[
+				"laoy",
+				"views/layout.jade"
+			],
+			[
+				"route",
+				"assets/js/router.coffee"
+			],
+			[
+				"mapd",
+				"assets/js/services/map-drawer.coffee"
+			],
+			[
+				"seaerh",
+				"assets/js/controllers/search.coffee"
+			],
+			[
+				"conta",
+				"assets/js/resources/hotel-container.coffee"
+			],
+			[
+				"res",
+				"assets/js/controllers/results.coffee"
+			],
+			[
+				"contain",
+				"assets/js/resources/hotel-container.coffee"
+			],
+			[
+				"app",
+				"assets/js/app.coffee"
+			],
+			[
+				"styl",
+				"assets/css/main.styl"
+			],
+			[
+				"page",
+				"assets/js/controllers/page.coffee"
+			],
+			[
+				"resul",
+				"assets/js/controllers/results.coffee"
+			],
+			[
+				"inde",
+				"views/index.jade"
+			],
+			[
+				"layou",
+				"views/layout.jade"
+			],
+			[
+				"lyou",
+				"views/layout.jade"
+			],
+			[
+				"searc",
+				"assets/js/controllers/search.coffee"
+			],
+			[
+				"saer",
+				"views/search.jade"
+			],
+			[
+				"bwe",
+				"bower.json"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"layout",
+				"views/layout.jade"
+			],
+			[
+				"resou",
+				"assets/js/resources/hotel-container.coffee"
+			],
+			[
+				"results",
+				"assets/js/controllers/results.coffee"
+			],
+			[
+				"result",
+				"assets/js/controllers/results.coffee"
+			],
+			[
+				"appco",
+				"assets/js/app.coffee"
+			],
+			[
+				"hote",
+				"assets/js/resources/hotel.coffee"
+			],
+			[
+				"hotel",
+				"assets/js/resources/hotel.coffee"
+			],
+			[
+				"search",
+				"assets/js/controllers/search.coffee"
+			],
+			[
+				"grunt",
+				"Gruntfile.coffee"
+			],
+			[
+				"",
+				"assets/js/app.coffee"
+			],
+			[
+				"ho",
+				"assets/js/resources/hotel.coffee"
+			],
+			[
+				"laou",
+				"views/layout.jade"
+			],
+			[
+				"router",
+				"assets/js/router.coffee"
+			],
+			[
+				"coffee",
+				"assets/js/controllers/results.coffee"
+			],
+			[
+				"sty",
+				"assets/css/main.styl"
+			],
+			[
+				"rou",
+				"assets/js/router.coffee"
+			],
+			[
+				"conro",
+				"assets/js/controllers/hotels-show.coffee"
+			],
+			[
+				"ret",
+				"views/results.jade"
+			],
+			[
+				"in",
+				"views/index.jade"
+			],
+			[
+				"leaves",
+				".leavesrc"
+			],
+			[
+				"grun",
+				"Gruntfile.coffee"
+			],
+			[
+				"layotu",
+				"views/layout.jade"
+			],
+			[
+				"jade",
+				"views/index.jade"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"new",
+				"src/commands/new.coffee"
+			],
+			[
+				"bulid",
+				"src/commands/build.coffee"
+			],
+			[
+				"buil",
+				"src/commands/build.coffee"
+			],
+			[
+				"r",
+				"README.md"
+			],
+			[
+				"buli",
+				"src/commands/build.coffee"
+			],
+			[
+				"npmh",
+				"src/npm-helpers.coffee"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"ghpu",
+				"src/gh-publisher.coffee"
+			],
+			[
+				"clipar",
+				"src/cli-parser.coffee"
+			],
+			[
+				"pu",
+				"src/commands/publish.coffee"
+			],
+			[
+				"ghp",
+				"src/gh-publisher.coffee"
+			],
+			[
+				"pubil",
+				"src/commands/publish.coffee"
+			],
+			[
+				"publ",
+				"src/commands/publish.coffee"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"_leave",
+				"tools/shells/zsh/completions/_leaves"
+			],
+			[
+				"re",
+				"README.md"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"setu",
+				"src/commands/setup.coffee"
+			],
+			[
+				"bi",
+				"bin/leaves.js"
+			],
+			[
+				"bin",
+				"bin/leaves.js"
+			],
+			[
+				"cli",
+				"src/cli-parser.coffee"
+			],
+			[
+				"upgr",
+				"src/commands/upgrade.coffee"
+			],
+			[
+				"path",
+				"src/path-resolver.coffee"
+			],
+			[
+				"_le",
+				"tools/shells/zsh/completions/_leaves"
+			],
+			[
+				"ci",
+				"src/cli-parser.coffee"
+			],
+			[
+				"up",
+				"src/commands/upgrade.coffee"
+			],
+			[
+				"clip",
+				"src/cli-parser.coffee"
+			],
+			[
+				"wat",
+				"src/commands/watch.coffee"
+			],
+			[
+				"wath",
+				"src/commands/watch.coffee"
+			],
+			[
+				"run",
+				"src/commands/run.coffee"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"pub",
+				"src/commands/publish.coffee"
+			],
+			[
+				"pubi",
+				"src/commands/publish.coffee"
+			],
+			[
+				"comi",
+				"src/commands/build.coffee"
+			],
+			[
+				"scss",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"repos",
+				"src/repository.coffee"
+			],
+			[
+				"cliopt",
+				"src/cli-option.coffee"
+			],
+			[
+				"cliop",
+				"src/cli-option.coffee"
+			],
+			[
+				"rete",
+				"test/repository-test.coffee"
+			],
+			[
+				"gitult",
+				"test/git-util-test.coffee"
+			],
+			[
+				"gitut",
+				"src/git-util.coffee"
+			],
+			[
+				"co",
+				"Gruntfile.coffee"
+			],
+			[
+				"repte",
+				"test/repository-test.coffee"
+			],
+			[
+				"repo",
+				"src/repository.coffee"
+			],
+			[
+				"test",
+				"test/repository-test.coffee"
+			],
+			[
+				"travi",
+				".travis.yml"
+			],
+			[
+				"runn",
+				"src/runner.coffee"
+			],
+			[
+				"gitu",
+				"src/git-util.coffee"
+			],
+			[
+				"epo",
+				"src/repository.coffee"
+			],
+			[
+				"rnn",
+				"src/runner.coffee"
+			],
+			[
+				"repotes",
+				"test/repository-test.coffee"
+			],
+			[
+				"git",
+				"src/git-util.coffee"
+			],
+			[
+				"testrepo",
+				"test/repository-test.coffee"
+			],
+			[
+				"reop",
+				"src/repository.coffee"
+			],
+			[
+				"json",
+				"package.json"
+			],
+			[
+				"util",
+				"src/util.coffee"
+			],
+			[
+				"u",
+				"src/util.coffee"
+			],
+			[
+				"uti",
+				"src/util.coffee"
+			],
+			[
+				"erro",
+				"src/errors.coffee"
+			],
+			[
+				"utilte",
+				"test/util-test.coffee"
+			],
+			[
+				"simpl",
+				"src/simple-git.coffee"
+			],
+			[
+				"simp",
+				"src/simple-git.coffee"
+			],
+			[
+				"li",
+				"LICENSE"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"gr",
+				"Gruntfile.coffee"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"cpp",
+				"src/ofApp.cpp"
+			],
+			[
+				"samp",
+				"src/main.cpp"
+			],
+			[
+				"ma",
+				"Makefile"
+			],
+			[
+				"empty",
+				"bin/emptyExample"
+			],
+			[
+				"emp",
+				"emptyExample.workspace"
+			],
+			[
+				"kit",
+				".kitchen.yml"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"appcon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"withvoice",
+				"app/controllers/concerns/with_voice.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/daniel/Documents/projects/net-portal/net_portal.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 370.0,
+		"selected_items":
+		[
+			[
+				"basicsa",
+				"MeetupApi.BasicSaver"
+			],
+			[
+				"amdin",
+				"Admin"
+			],
+			[
+				"stopdeb",
+				"EnsimeStopDebugger"
+			],
+			[
+				"contineu",
+				"EnsimeContinueDebugger"
+			],
+			[
+				"textcommand",
+				"EnsimeTextCommand"
+			],
+			[
+				"is_ena",
+				"is_enabled"
+			],
+			[
+				"yield",
+				"yield"
+			],
+			[
+				"userinit",
+				"userinit"
+			],
+			[
+				"pinit",
+				"pinit"
+			]
+		],
+		"width": 726.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
