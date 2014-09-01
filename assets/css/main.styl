@@ -82,13 +82,15 @@ body
 
 // Landing Page
 .landing
-	height 200px
+	height 140px
+	background-color transparent
+	opacity 1
 	p.logo
 		font-size 20px
+		color #fff
 		text-align center
 	.tagline
 		margin-top 0
-		color #222
 		text-align center
 		font-size 10px
 		top 65%
@@ -100,38 +102,88 @@ body
 		transform translate(-50%, -50%)
 
 .search
-	width 80%
 	padding 20px
-	.search-icon
-		float left
-		margin-top 4px
-		margin-right 8px
-	.search-title
-		border-bottom 1px solid #fff
-		padding-bottom 5px
-		margin-left 30px
+	.place
+		margin-top -30px
+		.search-icon
+			float left
+			margin-top 4px
+			margin-right 8px
+		.search-title
+			border-bottom 1px solid #fff
+			padding-bottom 5px
+			margin-left 30px
 
-	.search-btn
+	.price
 		margin-top 30px
+		display block
+		opacity 0.8
+		height 200px
+		font-size 12px
+		.lowest
+			background-image url(../img/hotel01.jpg)
+			float left
+			width 33.33%
+			height 33.33%
+			text-align center
+			background-color #fff
+			padding 20px
+			margin-bottom 10px
+		.mid-low
+			background-image url(../img/hotel02.jpg)
+			float right
+			width 33.33%
+			height 33.33%
+			text-align center
+			background-color #fff
+			padding 20px
+			margin-bottom 10px
+		.mid-high
+			background-image url(../img/hotel03.jpg)
+			float left
+			width 33.33%
+			height 33.33%
+			text-align center
+			background-color #fff
+			padding 20px
+			margin-bottom 10px
+		.highest
+			background-image url(../img/hotel04.jpg)
+			background-position bottom
+			float right
+			width 33.33%
+			height 33.33%
+			text-align center
+			background-color #fff
+			padding 20px
+			margin-bottom 10px
+	.search-btn
+		clear both
 		text-align center
 		a.btn
 			border-radius 100px
 			border 1px solid #eaeaea
+			background-color #fff
 			font-size 14px
-			color #222
+			opacity 0.8
 			transition all 0.3s ease
 			display inline-block
-			// background-color #4674DE
-			// color #fff
-			width 60%
+			line-height 2em
+			color #222
+			width 200px
 			height 30px
 			padding 12px 20px
 			cursor pointer
 			left 50%
 			margin-right -50%
-			margin-top 30px
+			margin-top 60px
 			position absolute
 			transform translate(-50%, -50%)
+		a.btn:hover
+			background-color #4674DE
+			border 1px solid #4674DE
+			color #fff
+
 
 // Reservation Page
 .reserve p.btn
@@ -144,5 +196,3 @@ body
 		padding 5px
 		cursor pointer
 
-.footer
-	text-align center
