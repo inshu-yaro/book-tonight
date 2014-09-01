@@ -1,15 +1,16 @@
-.hotel-title
-	.stars
-	.review= "{{hotel.reviewAverage}}"
-.hotel-pic
-	img(ng-src="{{hotel.roomImageUrl}}")
-.room
-	p.room 後部屋!
-	p.price= "¥{{hotel.hotelMinCharge}}〜"
-.direction
-	.address= "{{hotel.addres1}}{{hotel.address2}}"
-	.map
-		img(ng-src="{{hotel.hotelMapImageUrl}}")
-.reserve
-	a(class='btn', href='tel:{{hotel.telephoneNo}}' ng-click="reserveHotels()")
-		= "{{hotel.telephoneNo}}"
+.reservation
+	.hotel-title
+		.stars
+		.review= "{{hotel.reviewAverage}}"
+	.hotel-pic
+		img(ng-src="{{hotel.roomImageUrl}}")
+	.room
+		p.room 後部屋!
+		p.price= "¥{{hotel.hotelMinCharge}}〜"
+	.direction
+		.address= "{{hotel.addres1}}{{hotel.address2}}"
+		.map
+			img(ng-src="{{hotel.hotelMapImageUrl}}")
+	.reserve
+		a(class='btn', href='tel:{{hotel.telephoneNo}}' ng-click="reserveHotels()")
+			= "{{hotel.telephoneNo}}"

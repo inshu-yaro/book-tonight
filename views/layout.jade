@@ -30,6 +30,8 @@ html
     script(src="js/controllers/search.js")
   body(ng-app="BookTonight" ng-controller="PageCtrl")
     .header(ng-class="{landing: isRootPage}")
+        .return
+            img(src="img/return.png")
         p.logo
             span.left BOOK 
             span.right TONIGHT
