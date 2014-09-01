@@ -372,24 +372,91 @@ body {
   transform: translate(-50%, -50%);
 }
 .search .search-btn a.btn:hover {
-  background-color: #4674de;
-  border: 1px solid #4674de;
+  background-color: #3bb9ff;
+  border: 1px solid #3bb9ff;
   color: #fff;
 }
 .reservation {
-  width: 80%;
-  padding: 20px;
+  margin: 14px;
   background-color: #fff;
-  border-radius: 5px;
+  height: 100%;
+  border-radius: 3px;
+  color: #222;
 }
-.reservation .reserve p.btn {
-  margin-top: 30px;
+.reservation .hotel-title {
+  padding-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 14px;
 }
-.reservation .reserve p.btn a.btn {
+.reservation .hotel-pic {
+  width: 100%;
+}
+.reservation .hotel-pic img {
+  width: 292px;
+  height: 200px;
+}
+.reservation .room {
+  height: 34px;
+  border-bottom: 1px solid #eaeaea;
+}
+.reservation .room-left {
+  float: left;
+  padding: 2px 20px 10px 14px;
+  margin: 0;
+}
+.reservation .price {
+  float: right;
+  padding: 2px 14px 10px 20px;
+  margin: 0;
+}
+.reservation .direction {
+  clear: both;
+  float: left;
+  margin-top: 20px;
+}
+.reservation .address {
+  float: left;
+  display: block;
+  margin-left: 14px;
+  font-size: 12px;
+  width: 100%;
+}
+.reservation .address img {
+  width: 12px;
+  margin-top: 4px;
+  margin-right: 4px;
+}
+.reservation .telephone {
+  display: block;
+  width: 100%;
+  margin-left: 14px;
+}
+.reservation .telephone img {
+  width: 12px;
+  margin-top: 4px;
+  margin-right: 4px;
+}
+.reservation .map {
+  float: right;
+  margin: 10px;
+}
+.reservation .map img {
+  width: 120px;
+}
+.reserve {
+  clear: both;
+  display: block;
+  margin-top: 60px;
+  width: 300px;
+  margin: 30px auto;
+}
+.reserve a.btn {
+  text-align: center;
   background-color: #3bb9ff;
   color: #fff;
   width: 60%;
   height: 30px;
-  padding: 5px;
+  padding: 8px 60px;
+  margin-left: 40px;
   cursor: pointer;
 }
