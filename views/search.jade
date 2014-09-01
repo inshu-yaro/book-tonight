@@ -6,15 +6,16 @@
 	.price
 		.lowest(ng-click="searchHotels(1)")
 			| 野宿以外コース
-			.yen ¥
+			p.yen ¥8,000〜
 		.mid-low(ng-click="searchHotels(2)")
 			| 給料日前コース
-			.yen ¥¥
+			p.yen ¥16,000〜
 		.mid-high(ng-click="searchHotels(3)")
 			| 給料日後コース
-			.yen ¥¥¥
+			p.yen ¥24,000〜
 		.highest(ng-click="searchHotels(4)")
 			| 御曹司コース
-			.yen ¥¥¥¥
+			p.yen ¥32,000〜
+
 	//- .search-btn
 	//- 	a(class='btn', href='javascript:void(0)' ng-click="searchHotels()") 近くのホテルを探す

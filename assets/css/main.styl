@@ -23,6 +23,7 @@ a
 
 body
 	background-image url(../img/bg-2.jpg)
+	background cover
 
 .header
 	width 100%
@@ -45,46 +46,46 @@ body
 		margin 0
 		position absolute
 		transform translate(-50%, -50%)
-	.menu_icon
-		float right
-		margin-right 14px
-		margin-top 10px
-		position relative
-		a span
-			transition background 0.3s ease
-		span.one
-			opacity 0.5
-			width 13px
-			height 2px
-			background #222
-			display block
-			margin-top 8px
-			margin-left 9px
-		span.two
-			opacity 1
-			width 10px
-			height 2px
-			background #222
-			display block
-			margin-top 2px
-			margin-left 9px
-		span.three
-			opacity 1
-			width 15px
-			height 2px
-			background #222
-			display block
-			margin-top 2px
-			margin-left 9px
-		span.four
-			opacity 1
-			width 8px
-			height 2px
-			margin-top 2px
-			height 2px
-			background #222
-			display block
-			margin-left 9px
+	// .menu_icon
+	// 	float right
+	// 	margin-right 14px
+	// 	margin-top 10px
+	// 	position relative
+	// 	a span
+	// 		transition background 0.3s ease
+	// 	span.one
+	// 		opacity 0.5
+	// 		width 13px
+	// 		height 2px
+	// 		background #222
+	// 		display block
+	// 		margin-top 8px
+	// 		margin-left 9px
+	// 	span.two
+	// 		opacity 1
+	// 		width 10px
+	// 		height 2px
+	// 		background #222
+	// 		display block
+	// 		margin-top 2px
+	// 		margin-left 9px
+	// 	span.three
+	// 		opacity 1
+	// 		width 15px
+	// 		height 2px
+	// 		background #222
+	// 		display block
+	// 		margin-top 2px
+	// 		margin-left 9px
+	// 	span.four
+	// 		opacity 1
+	// 		width 8px
+	// 		height 2px
+	// 		margin-top 2px
+	// 		height 2px
+	// 		background #222
+	// 		display block
+	// 		margin-left 9px
 
 // Landing Page
 .landing
@@ -123,18 +124,22 @@ body
 	.price
 		margin-top 30px
 		display block
-		opacity 0.8
+		opacity 1
 		height 200px
-		font-size 12px
+		font-size 13px
 		.lowest
 			background-image url(../img/hotel01.jpg)
+			background-position bottom center
 			float left
 			width 33.33%
 			height 33.33%
 			text-align center
-			background-color #fff
 			padding 20px
 			margin-bottom 10px
+			transition all 0.3s ease
+		.lowest:hover
+			background-color #ec5160
+			cursor pointer
 		.mid-low
 			background-image url(../img/hotel02.jpg)
 			float right
@@ -144,8 +149,11 @@ body
 			background-color #fff
 			padding 20px
 			margin-bottom 10px
+		.mid-low:hover
+			cursor pointer
 		.mid-high
 			background-image url(../img/hotel03.jpg)
+			background-position bottom center
 			float left
 			width 33.33%
 			height 33.33%
@@ -153,6 +161,8 @@ body
 			background-color #fff
 			padding 20px
 			margin-bottom 10px
+		.mid-high
+			cursor pointer
 		.highest
 			background-image url(../img/hotel04.jpg)
 			background-position bottom
@@ -163,6 +173,11 @@ body
 			background-color #fff
 			padding 20px
 			margin-bottom 10px
+		.highest:hover
+			cursor pointer
+		p.yen
+			font-size 24px
+			margin 0
 	.search-btn
 		clear both
 		text-align center
@@ -249,6 +264,7 @@ body
 	clear both
 	display block
 	margin-top 60px
+	margin-bottom 30px
 	width 300px
 	margin 30px auto
 
@@ -272,3 +288,17 @@ body
 		margin 40% 50% 0 50%
 		width 10%
 
+@media screen and (max-width 320px)
+	.landing
+		p.logo
+			font-size 20px
+			color #fff
+			text-align center
+		.tagline
+			margin-top 0
+			font-size 10px
+			top 65%
+			margin 0
+			width 100%
+			position absolute
+			transform translate(-50%, -50%)
