@@ -4,13 +4,17 @@
 			img(src="img/search.png")
 		p.search-title ホテルを検索
 	.price
-		.lowest 野宿以外コース
+		.lowest(ng-click="searchHotels(1)")
+			| 野宿以外コース
 			.yen ¥
-		.mid-low 給料日前コース
+		.mid-low(ng-click="searchHotels(2)")
+			| 給料日前コース
 			.yen ¥¥
-		.mid-high 給料日後コース
+		.mid-high(ng-click="searchHotels(3)")
+			| 給料日後コース
 			.yen ¥¥¥
-		.highest 御曹司コース
+		.highest(ng-click="searchHotels(4)")
+			| 御曹司コース
 			.yen ¥¥¥¥
-	.search-btn
-		a(class='btn', href='javascript:void(0)' ng-click="searchHotels()") 近くのホテルを探す
+	//- .search-btn
+	//- 	a(class='btn', href='javascript:void(0)' ng-click="searchHotels()") 近くのホテルを探す
