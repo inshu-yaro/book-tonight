@@ -30,7 +30,7 @@ html
     script(src="js/controllers/search.js")
   body(ng-app="BookTonight" ng-controller="PageCtrl")
     .header(ng-class="{landing: isRootPage}")
-        .return
+        .return(ng-hide="isRootPage" ng-click="back()")
             img(src="img/return.png")
         p.logo
             span.left BOOK
